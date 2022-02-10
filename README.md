@@ -88,7 +88,7 @@ add_presets()`, para cada preset ya creado, agregamos un preset con el color gua
 
 # Acutalizacion de las propiedade del nodo Light2D
 
-* Script [light](https://github.com/MarcoPaoletta/Light2D/blob/main/rsc/light/light.gd)
+* Script [light.gd](https://github.com/MarcoPaoletta/Light2D/blob/main/rsc/light/light.gd)
 
 ```gdscript
 func _ready():
